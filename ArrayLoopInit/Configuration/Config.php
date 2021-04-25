@@ -4,7 +4,7 @@
 
 class Configuration {
 
-    const enableArray = false;
+    const enableArray = true;
     const enableInfinite = true;
     
 }

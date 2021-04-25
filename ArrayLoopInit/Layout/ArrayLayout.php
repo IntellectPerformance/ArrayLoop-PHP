@@ -6,7 +6,7 @@ class Layout {
     <html>
 
     <head>
-    <link href="http://localhost/ArrayLoopInit/Layout/CSS/main.css" rel="stylesheet" type="text/css"></link>
+    <link href="./Layout/CSS/main.css" rel="stylesheet" type="text/css"></link>
     </head>
 
     <body>

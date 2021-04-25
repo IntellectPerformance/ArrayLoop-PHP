@@ -42,3 +42,20 @@ body {
     color: darkgreen;
     font-size: 18px;
 }
+
+.arrayloop-button {
+    border: 5px solid #2dc52d75;
+    background-color: green;
+    font-size: 20px;
+    color: white;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.arrayloop-button:hover {
+    border: 5px solid #076b0775;
+    background-color: green;
+    font-size: 25px;
+    color: white;
+    transition: 0.4s;
+}
